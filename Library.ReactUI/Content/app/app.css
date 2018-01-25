@@ -1,0 +1,11 @@
+﻿body {
+}
+
+.sort {
+    cursor: pointer;
+    white-space:nowrap;
+}
+
+.isbn {
+    white-space: nowrap;
+}
